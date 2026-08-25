@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-animation.gif" width="180">
+<img src=".bgdark.jpg" width="180">
 
 # TAYYAB SIDDIQUI
 
