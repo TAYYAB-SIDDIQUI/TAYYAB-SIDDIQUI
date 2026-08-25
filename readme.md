@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./bgdark.jpg" width="180">
+<!-- <img src="./bgdark.jpg" width="180"> -->
 
 # TAYYAB SIDDIQUI
 
@@ -172,7 +172,7 @@ real-world production workloads.
 
 ## 📊 GitHub Activity
 
-<img src="./assets/github-activity.svg" width="90%">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI%2FML+Engineer;Computer+Vision+Developer;Document+AI+%7C+OCR+%7C+Speech+AI)](https://git.io/typing-svg)
 
 </div>
 
@@ -186,7 +186,7 @@ real-world production workloads.
 <img src="https://img.shields.io/badge/GitHub-Tayyab--Siddiqui-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://in.linkedin.com/in/tayyab-siddiqui-78b88b30a">
 <img src="https://img.shields.io/badge/LinkedIn-Tayyab%20Siddiqui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
