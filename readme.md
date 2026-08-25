@@ -84,6 +84,8 @@ I enjoy taking AI models from **experimentation → optimization → deployment*
 
 ## 🛠️ Tech Stack
 
+### Languages
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,postgres,mysql,html,css" />
