@@ -65,7 +65,8 @@ Object detection, image processing and document understanding.
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Tayyab--Siddiqui-181717?style=for-the-badge&logo=github)](https://github.com/TAYYAB-SIDDIQUI)
+[![GitHub](https://img.shields.io/badge/GitHub-Tayyab--Siddiqui-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TAYYAB-SIDDIQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tayyab%20Siddiqui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/tayyab-siddiqui-78b88b30a)
 
 ---
 
