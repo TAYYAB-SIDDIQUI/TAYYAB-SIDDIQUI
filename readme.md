@@ -19,6 +19,10 @@ Document Processing, Speech AI, and production-ready backend systems.**
 
 ---
 
+![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
