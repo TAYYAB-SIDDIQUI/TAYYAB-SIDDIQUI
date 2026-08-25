@@ -1,79 +1,197 @@
-<p align="center">
-  <img src="./bg.jpg" width="100%">
+<div align="center">
+
+<img src="./assets/profile-animation.gif" width="180">
+
+# TAYYAB SIDDIQUI
+
+### AI / ML Engineer · Python Developer · Computer Vision
+
+<p>
+  Building intelligent systems for
+  <b>Document AI</b> · <b>OCR</b> · <b>Computer Vision</b> · <b>Speech AI</b>
 </p>
 
-<h1 align="center">👋 Hey, I'm Tayyab Siddiqui</h1>
-
-<p align="center">
-  Python Developer • AI/ML • Computer Vision • Document AI
+<p>
+  <a href="https://github.com/TAYYAB-SIDDIQUI">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
-I build AI-powered applications focused on **OCR, Computer Vision,
-Document Processing, Speech AI, and production-ready backend systems.**
+</div>
 
 ---
 
-## 🧠 What I Work On
+<div align="center">
 
-- 🔍 **OCR & Document AI**
-- 👁️ **Computer Vision**
-- 🤖 **Machine Learning & Deep Learning**
-- 🎙️ **Speech-to-Text & Audio Processing**
-- ⚡ **AI Model Optimization**
-- 🐳 **Docker & Production Deployment**
-- 🔧 **Backend & REST APIs**
+## ⚡ What I Build
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🔍
+**Document AI**
+
+OCR · Extraction · Validation
+
+</td>
+
+<td align="center" width="25%">
+
+### 👁️
+**Computer Vision**
+
+Detection · Recognition · Analysis
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎙️
+**Speech AI**
+
+Whisper · Audio · Translation
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+**Backend**
+
+Python · Flask · Django · APIs
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🧠 About Me
+
+I'm a Python developer focused on building **AI-powered production
+systems**, particularly around document processing, OCR, computer
+vision and speech processing.
+
+I enjoy taking AI models from **experimentation → optimization → deployment**.
 
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🤖 AI / Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,html,css,bash" />
 
-### Backend
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### AI / ML
 
-### DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+
+### Backend & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=flask,django,docker,git,github,azure" />
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
-🔍 **Document AI & OCR**  
-Document processing, OCR extraction, field detection and validation.
+<table>
+<tr>
 
-🎥 **Video AI**  
-Video processing, audio extraction, speech recognition and AI analysis.
+<td width="50%">
 
-🤖 **Computer Vision**  
-Object detection, image processing and document understanding.
+### 🔍 Document AI
+
+OCR pipelines, document classification,
+information extraction and validation.
+
+**Focus**
+
+`OCR` `Computer Vision` `Python`
+
+</td>
+
+<td width="50%">
+
+### 🎥 Video AI
+
+Video processing, speech recognition,
+audio extraction and AI analysis.
+
+**Focus**
+
+`Whisper` `PyTorch` `FFmpeg`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 Computer Vision
+
+Image processing, object detection,
+document understanding and analysis.
+
+**Focus**
+
+`YOLO` `OpenCV` `PyTorch`
+
+</td>
+
+<td width="50%">
+
+### ⚡ AI Optimization
+
+Optimizing inference pipelines for
+real-world production workloads.
+
+**Focus**
+
+`GPU` `Docker` `Performance`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TAYYAB-SIDDIQUI&show_icons=true&theme=tokyonight)
+## 📊 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TAYYAB-SIDDIQUI&layout=compact&theme=tokyonight)
+<img src="./assets/github-activity.svg" width="90%">
 
----
-
-## 📫 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Tayyab--Siddiqui-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TAYYAB-SIDDIQUI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tayyab%20Siddiqui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/tayyab-siddiqui-78b88b30a)
+</div>
 
 ---
 
-⭐ Feel free to explore my repositories and projects.
+<div align="center">
+
+### 💬 Let's Connect
+
+<a href="https://github.com/TAYYAB-SIDDIQUI">
+<img src="https://img.shields.io/badge/GitHub-Tayyab--Siddiqui-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Tayyab%20Siddiqui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br><br>
+
+<i>Building intelligent systems, one model at a time.</i>
+
+</div>
