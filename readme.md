@@ -15,7 +15,7 @@
   <a href="https://github.com/TAYYAB-SIDDIQUI">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://in.linkedin.com/in/tayyab-siddiqui-78b88b30a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
 </p>
@@ -88,7 +88,6 @@ I enjoy taking AI models from **experimentation → optimization → deployment*
 
 <img src="https://skillicons.dev/icons?i=python,postgres,mysql,html,css" />
 
-</div>
 ### AI / ML
 
 <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
