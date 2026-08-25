@@ -1,113 +1,67 @@
+<div align="center">
+
+# TAYYAB SIDDIQUI
+
+### AI / ML Engineer · Python Developer · Machine Learning
+
+<p>
+  Exploring and building projects around
+  <b>Machine Learning</b> · <b>AI</b> · <b>Data Science</b> · <b>Computer Vision</b>
+</p>
+
+<p>
+  <a href="https://github.com/TAYYAB-SIDDIQUI">
+    <img src="https://img.shields.io/badge/GitHub-Tayyab--Siddiqui-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://in.linkedin.com/in/tayyab-siddiqui-78b88b30a">
+    <img src="https://img.shields.io/badge/LinkedIn-Tayyab%20Siddiqui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+</div>
+
 ---
 
 <div align="center">
 
-## 🚀 Featured Projects
+## ⚡ What I Like Building
 
 <table>
 <tr>
 
-<td width="50%">
+<td align="center" width="25%">
 
-### 🍽️ Restaurant Revenue Prediction
+### 🤖
+**Machine Learning**
 
-Machine learning project for predicting
-restaurant revenue using historical data.
-
-**Focus**
-
-`Machine Learning` `Python` `Prediction`
-
-<br>
-
-<a href="https://github.com/TAYYAB-SIDDIQUI/restaurant_prediction">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
-</a>
+Prediction · Classification · Regression
 
 </td>
 
-<td width="50%">
+<td align="center" width="25%">
 
-### 📄 Resume Analyser
+### 👁️
+**Computer Vision**
 
-A Python-based resume analysis application
-using NLP and machine learning to evaluate
-skills, experience and projects.
-
-**Focus**
-
-`Python` `Machine Learning` `NLP` `Flask`
-
-<br>
-
-<a href="https://github.com/TAYYAB-SIDDIQUI/resume-analyser">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
-</a>
+Image Processing · Detection · Analysis
 
 </td>
 
-</tr>
+<td align="center" width="25%">
 
-<tr>
+### 📊
+**Data Science**
 
-<td width="50%">
-
-### ☄️ Hazardous Space Object Model
-
-Machine learning project focused on analysing
-and modelling hazardous near-Earth objects.
-
-**Focus**
-
-`Python` `Machine Learning` `Data Analysis`
-
-<br>
-
-<a href="https://github.com/TAYYAB-SIDDIQUI/Hazardous-space-object-model">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
-</a>
+Analysis · Visualization · Insights
 
 </td>
 
-<td width="50%">
+<td align="center" width="25%">
 
-### 💰 Salary Prediction Model
+### 🧠
+**AI**
 
-Machine learning project for predicting
-salary based on historical salary data.
-
-**Focus**
-
-`Python` `Machine Learning` `Regression`
-
-<br>
-
-<a href="https://github.com/TAYYAB-SIDDIQUI/Salary-prediciton-model">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 📊 Course Engagement Analysis
-
-Data analysis and prediction project focused
-on understanding course engagement patterns.
-
-**Focus**
-
-`Python` `Data Analysis` `Prediction`
-
-<br>
-
-<a href="https://github.com/TAYYAB-SIDDIQUI/Course-Engagement-Analysis-and-prediciton">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
-</a>
+Experimentation · Models · Applications
 
 </td>
 
@@ -117,3 +71,26 @@ on understanding course engagement patterns.
 </div>
 
 ---
+
+## 🧠 About Me
+
+I'm a **Python developer and AI/ML enthusiast** who enjoys turning
+data and machine learning concepts into practical applications.
+
+My interests include **machine learning, computer vision, data analysis,
+predictive modelling and intelligent applications**.
+
+I enjoy working through the complete process:
+
+```text
+Data
+  ↓
+Exploration
+  ↓
+Preprocessing
+  ↓
+Model Development
+  ↓
+Evaluation
+  ↓
+Prediction
