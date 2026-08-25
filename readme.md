@@ -1,6 +1,12 @@
-# 👋 Hey, I'm Tayyab Siddiqui
+<p align="center">
+  <img src="./bg.jpg" width="100%">
+</p>
 
-### Python Developer | AI/ML | Computer Vision | Document AI
+<h1 align="center">👋 Hey, I'm Tayyab Siddiqui</h1>
+
+<p align="center">
+  Python Developer • AI/ML • Computer Vision • Document AI
+</p>
 
 I build AI-powered applications focused on **OCR, Computer Vision,
 Document Processing, Speech AI, and production-ready backend systems.**
