@@ -88,7 +88,7 @@ I enjoy taking AI models from **experimentation → optimization → deployment*
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,sql,html,css" />
+<img src="https://skillicons.dev/icons?i=python,postgres,mssql,html,css" />
 
 ### AI / ML
 
