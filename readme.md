@@ -86,10 +86,13 @@ I enjoy taking AI models from **experimentation → optimization → deployment*
 
 <div align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=python,postgres,html,css" />
 
-<img src="https://skillicons.dev/icons?i=python,postgres,mssql,html,css" />
+<br><br>
 
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+</div>
 ### AI / ML
 
 <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
